@@ -1,3 +1,6 @@
+# Information
+- **Time:** 10:40 - 11:40
+- **Attendees:**  Bob Zhang (Supervisor), Mai Jiajun, Huang Yanzhen 
 # Discussion Summary
 ## Current Work Demonstration
 - Demonstrated the working framework of the project, including a YOLO-based multiple-people locator merged with a Mediapipe posture detection system.
